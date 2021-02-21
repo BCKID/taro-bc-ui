@@ -53,6 +53,5 @@
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": "eslint --quiet --cache --fix",
     "src/**/*.scss": "stylelint --syntax scss --fix"
-  },
-  "version": "0.0.1-test"
+  }
 }
