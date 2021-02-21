@@ -28,3 +28,6 @@ stats.html
 
 # Test files
 coverage
+
+# Lerna files
+lerna-debug.log
